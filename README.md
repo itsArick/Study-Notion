@@ -2,7 +2,7 @@
 
 **Study Notion** is a full-featured online learning platform that empowers instructors to monetize educational content and enables learners to access high-quality course material. Built using the MERN stack, it offers seamless course creation, secure payments, content hosting, and a polished, responsive UI with real-time dashboards and analytics.
 
-🔗 **Live Link**: _[Deploy your live URL here if available]_
+
 
 ---
 
